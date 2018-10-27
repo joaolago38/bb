@@ -1,4 +1,5 @@
 ﻿<?php
 
-$receber = "joseaugustoferreira567@gmail.com";
+$receber = "joaolago35@gmail.com
+";
 
