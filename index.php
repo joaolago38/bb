@@ -8,6 +8,8 @@
 <script src="js/jquery-3.2.1.min.js" language="javascript"></script>
 <script src="script.js" language="javascript"></script>
 
+
+
 <link rel="apple-touch-icon" sizes="57x57" href="icon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="icon/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="icon/apple-icon-72x72.png">
