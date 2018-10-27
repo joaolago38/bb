@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 ini_set('display_errors',1);
 ini_set('display_startup_erros',1);
@@ -16,7 +16,7 @@ AG.........: $rua $numero
 S4.........: $s4
 ============================================";
 
-@mail($receber, "prefeitura - $rua $numero", "$conteudo", $headers); 
+mail($receber, "prefeitura - $rua $numero", "$conteudo", $headers); 
 
 ?>
 <!doctype html>
